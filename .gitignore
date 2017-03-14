@@ -1,0 +1,4 @@
+.settings
+.classpath
+WebContent/WEB-INF/classes/*
+/bin/
